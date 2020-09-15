@@ -1,0 +1,25 @@
+{
+  "name": "memotest",
+  "version": "1.0.0",
+  "description": "juego memotest",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangiaa/memotest.git"
+  },
+  "author": "Mangia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangiaa/memotest/issues"
+  },
+  "homepage": "https://github.com/Mangiaa/memotest#readme"
+}
